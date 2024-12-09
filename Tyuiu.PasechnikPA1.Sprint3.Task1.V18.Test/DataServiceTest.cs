@@ -5,8 +5,17 @@ namespace Tyuiu.PasechnikPA1.Sprint3.Task1.V18.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidGetSumSeries()
         {
+            DataService ds = new DataService();
+
+            int startValue = 1;
+            int stopValue = 15;
+
+            double res = ds.GetSumSeries(startValue, stopValue);
+
+            double wait = 0.121;
+            Assert.AreEqual(wait, res);
         }
     }
 }
