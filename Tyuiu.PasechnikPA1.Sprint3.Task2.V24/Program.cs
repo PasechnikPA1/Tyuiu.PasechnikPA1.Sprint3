@@ -6,14 +6,14 @@ namespace Tyuiu.PasechnikPA1.Sprint3.Task2.V24
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #3 | Выполнил: Лебедев И.В. | ИИПБ-23-3";
+            Console.Title = "Спринт #3 | Выполнил: Пасечник П. А. | АСОиУБ-24-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Алгоритмы циклической структуры                                   *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #24                                                             *");
-            Console.WriteLine("* Выполнила: Лебедев Игорь Владимирович | ИИПБ-23-3                       *");
+            Console.WriteLine("* Выполнил: Пасечник Павел Андреевич | АСОиУБ-24-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл dowhile,которая вычисляет произведение*");

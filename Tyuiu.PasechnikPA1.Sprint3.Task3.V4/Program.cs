@@ -5,13 +5,13 @@ namespace Tyuiu.PasechnikPA1.Sprint3.Task3.V4
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #3 | Выполнил: Сафронов В. В. | АСОиУб-23-1";
+            Console.Title = "Спринт #3 | Выполнил: Пасечник П. А. | АСОиУБ-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла foreach                                            *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #4                                                              *");
-            Console.WriteLine("* Выполнил: Сафронов Владислав Валерьевич | АСОиУб-23-1                  *");
+            Console.WriteLine("* Выполнил: Пасечник Павел Андреевич | АСОиУБ-24-1                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Используя цикл foreach, удалить из строки все буквы j в строке:         *");
